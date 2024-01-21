@@ -1,0 +1,1 @@
+Exercício realizado no último módulo do curso em vídeo de JavaScript, lecionado pelo professor Gustavo Guanabara. Nele, podemos adicionar valores a um array e manipulá-los, mostrando a quantidade de valores, a soma, a média, o maior e o menor valor, exibindo todos os valores selecionados.
