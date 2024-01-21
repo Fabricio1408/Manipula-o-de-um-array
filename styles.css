@@ -25,3 +25,7 @@ select{
     justify-content: center;
     text-align: center;
 }
+
+#zerou{
+    display: none;
+}
