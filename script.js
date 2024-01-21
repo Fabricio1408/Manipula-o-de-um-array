@@ -53,10 +53,15 @@ function finalizar(){
         res.innerHTML += `<br>O menor valor digitado é o ${menor}.`
         res.innerHTML += `<br>A soma de todos os valores digitados é ${soma}.`
         res.innerHTML += `<br>A média dos valores digitados é ${media}.`
+        let zerou = document.getElementById('zerou')
+        zerou.style.display = 'block'
 
 
 
 
 
     }
+}
+function zerar(){
+    location.reload();
 }
